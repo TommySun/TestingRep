@@ -17,6 +17,7 @@ public class testMain {
 			System.out.println("hello world! Again! Willma");
 			System.out.println("hello world! Again! Barney");
 			System.out.println("GO HOME AFTER 2PM");
+			System.out.println("GO HOME AFTER 2AM, nothing good happens!");
 	}
 
 }
