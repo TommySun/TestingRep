@@ -20,6 +20,7 @@ public class testMain {
 			System.out.println("GO HOME AFTER 2PM");
 
 			System.out.println("GO HOME AFTER 2AM, nothing good happens!");
+			System.out.println("GO HOME AFTER 3PM");
 	}
 
 }
